@@ -5,7 +5,7 @@ which provides information about the Ember view backing the currently selected e
 It also assigns the view object to a global variable _V which can then be used within the console for further inspecting.
 
 ### How to use it
-* In Google Chrome, go to [chrome://flags/]("chrome://flags/") and enable Experimental Extension APIs. Relaunch your browser.
+* In Google Chrome, go to chrome://flags/ and enable Experimental Extension APIs. Relaunch your browser.
 * Open Tools-->Extensions (ensure Development mode is checked) and click on "Load unpacked extension..." to install the extension. You will need to reload Chrome once the extension is installed.
 
 ### Wish list
